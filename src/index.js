@@ -5,11 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Home from './home';
 import Explore from './Explore';
+import Location from './Location';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Home/>
+    <Location/>
   </React.StrictMode>
 );
 
