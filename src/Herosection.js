@@ -8,7 +8,7 @@ function Herosection() {
         <h1 class="text-xl text-center font-bold p-2">
           Welcome to Ganpat University Campus
         </h1>
-        <h1 class="text-center px-2 pt-2 pb-6">
+        <h1 class="text-center px-2  pb-4">
           Explore our university campus and discover all the amazing places it
           has to offer.
         </h1>
@@ -23,8 +23,8 @@ function Herosection() {
       <div class="p-5">
         <center>
           <img src="./guni_main.jpg" class="max-h-52" alt="main"></img>
-          <h1 class="text-2xl font-bold p-2">Main Building</h1>
-          <h3 class="text-lg p-2">
+          <h1 class="text-2xl font-bold pt-2">Main Building</h1>
+          <h3 class="text-lg ">
             The heart of our campus, where all the administrative offices are
             located.
           </h3>
