@@ -6,11 +6,12 @@ import reportWebVitals from './reportWebVitals';
 import Home from './home';
 import Explore from './Explore';
 import Location from './Location';
+import List from './List';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Home/>
+    <List/>
   </React.StrictMode>
 );
 
