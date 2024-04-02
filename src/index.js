@@ -10,7 +10,7 @@ import Location from './Location';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Location/>
+    <Home/>
   </React.StrictMode>
 );
 
