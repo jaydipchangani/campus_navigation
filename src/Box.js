@@ -4,7 +4,7 @@ function Box() {
   return (
     <>
       
-      <div class="pt-3 pr-5 pl-5">
+      <div class="p-5">
 
         <div class="bg-white min-h-38 max-h-42 max-w-40 rounded-lg float-left m-2 shadow-lg">
           <img src='./hostel.png' class="h-28 w-32 rounded-lg" alt='main' ></img>

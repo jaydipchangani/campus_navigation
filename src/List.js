@@ -6,16 +6,16 @@ function List() {
     <>
       <Header />
 
-      <div class="mt-5">
+      <div class="p-5">
         
-        <div class="bg-gray-300 max-h-42 max-w-40 rounded-lg float-left m-1 ">
-            <img src='./guni_main.jpg' class="max-h-40 rounded-lg" alt='main' ></img>
+        <div class="bg-gray-200 max-h-42 max-w-40 rounded-lg float-left  ">
+            <img src='./guni_main.jpg' class="max-h-40 rounded-t-lg" alt='main' ></img>
             <h1 class="text-center text-xl m-1">New Building UVPCE</h1>
         </div>
 
-        <div class="bg-gray-300 max-h-42 max-w-40 rounded-lg float-right m-1 ">
-            <img src='./guni_main.jpg' class="max-h-40 rounded-lg" alt='main' ></img>
-             <h1 class="text-center text-xl m-1">New Building UVPCE</h1>
+        <div class="bg-gray-200 max-h-42 max-w-40 rounded-lg float-right  ">
+            <img src='./guni_main.jpg' class="max-h-40 rounded-t-lg" alt='main' ></img>
+             <h1 class="text-center text-xl m-1">Old Building UVPCE</h1>
         </div>
 
       </div>
